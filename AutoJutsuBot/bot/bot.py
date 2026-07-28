@@ -59,6 +59,7 @@ jutsus = {
     "templates/vendaval_divino.png": "BVNVCXVB",
     "templates/ruptura_do_vento.png": "BVCVBN",
     "templates/dano_de_pressao.png": "BVCXCVCX",
+    "templates/kirin.png": "NVXZCXVN",
 }
 
 
