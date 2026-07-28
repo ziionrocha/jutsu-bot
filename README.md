@@ -64,6 +64,12 @@ A versão executável pode ser baixada na aba de Releases do projeto.
 
 ---
 
+## Link do Jogo
+
+https://www.roblox.com/pt/games/136532079004320/SHINSEI
+
+---
+
 ## Demonstração
 
 https://github.com/user-attachments/assets/1ddf7051-cc09-49cc-a825-d4773bfc945c
