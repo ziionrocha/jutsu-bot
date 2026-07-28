@@ -76,6 +76,7 @@ jutsus = {
     "vendaval_divino.png": "BVNVCXVB",
     "ruptura_do_vento.png": "BVCVBN",
     "dano_de_pressao.png": "BVCXCVCX",
+    "kirin.png": "NVXZCXVN",
 }
 
 
