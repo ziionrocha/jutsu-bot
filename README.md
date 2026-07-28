@@ -4,24 +4,24 @@ Projeto de automação em Python que utiliza visão computacional para reconhece
 
 ---
 
-## 🚀 Evolução do Projeto
+## Evolução do Projeto
 
 Este projeto foi desenvolvido em etapas, mostrando a evolução de um script simples até uma aplicação completa:
 
-### 🔹 Versão 1 — Script básico (`bot.py`)
+### Versão 1 — Script básico (`bot.py`)
 
 * Execução direta no terminal
 * Automação de comandos
 * Estrutura inicial do bot
 
-### 🔹 Versão 2 — Aplicação com interface (`app.py`)
+### Versão 2 — Aplicação com interface (`app.py`)
 
 * Interface gráfica com Tkinter
 * Sistema de logs
 * Execução em thread separada
 * Melhor organização do código
 
-### 🔹 Versão 3 — Aplicação executável (`.exe`)
+### Versão 3 — Aplicação executável (`.exe`)
 
 * Empacotamento com PyInstaller
 * Execução sem necessidade de Python instalado
@@ -29,7 +29,7 @@ Este projeto foi desenvolvido em etapas, mostrando a evolução de um script sim
 
 ---
 
-## 🧠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python
 * OpenCV (Visão Computacional)
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido em etapas, mostrando a evolução de um script sim
 
 ---
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 * Captura de tela em tempo real
 * Reconhecimento de jutsus por imagem
@@ -49,7 +49,7 @@ Este projeto foi desenvolvido em etapas, mostrando a evolução de um script sim
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 ```bash
 pip install -r requirements.txt
@@ -58,18 +58,18 @@ python app.py
 
 ---
 
-## ⬇️ Download (versão executável)
+## Download (versão executável)
 
 A versão executável pode ser baixada na aba de Releases do projeto.
 
 ---
 
-## 📹 Demonstração
+## Demonstração
 
 https://github.com/user-attachments/assets/1ddf7051-cc09-49cc-a825-d4773bfc945c
 
 ---
 
-## 🧠 Autor
+## Autor
 
 Zion Fabian Cabral da Rocha
