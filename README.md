@@ -66,7 +66,7 @@ A versão executável pode ser baixada na aba de Releases do projeto.
 
 ## 📹 Demonstração
 
-(Adicione aqui o link do vídeo mostrando o funcionamento)
+https://github.com/user-attachments/assets/1ddf7051-cc09-49cc-a825-d4773bfc945c
 
 ---
 
