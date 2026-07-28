@@ -72,4 +72,4 @@ A versão executável pode ser baixada na aba de Releases do projeto.
 
 ## 🧠 Autor
 
-Zion Fabian
+Zion Fabian Cabral da Rocha
